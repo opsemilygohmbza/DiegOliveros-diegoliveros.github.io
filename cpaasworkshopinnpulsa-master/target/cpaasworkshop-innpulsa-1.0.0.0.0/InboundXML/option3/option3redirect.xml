@@ -1,3 +1,0 @@
-<Response>
-    <Redirect method="GET">http://tufileserver/InboundXML/option2/option{{Digits}}.xml</Redirect>
-</Response>

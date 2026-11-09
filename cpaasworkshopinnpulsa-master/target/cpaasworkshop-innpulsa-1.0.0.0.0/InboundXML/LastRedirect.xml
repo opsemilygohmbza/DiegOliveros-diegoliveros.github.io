@@ -1,3 +1,0 @@
-<Response>
-    <Redirect method="GET">http://tufileserver/InboundXML/last{{Digits}}.xml</Redirect>
-</Response>
